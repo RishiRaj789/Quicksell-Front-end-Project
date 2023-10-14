@@ -1,0 +1,10 @@
+.MainDiv {
+    width: 100%;
+
+}
+
+.Card {
+    border: 1px solid grey;
+    width: 100%;
+    border-radius: 10px;
+}
